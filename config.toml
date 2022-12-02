@@ -1,0 +1,15 @@
+baseURL = 'https://ippermaculture.marcpartensky.com'
+languageCode = 'fr-fr'
+defaultContentLanguage = 'fr'
+title = 'IPPermaculture'
+theme = 'beautifulhugo'
+sectionPagesMenu = "main"
+
+enableEmoji = true
+
+[Params]
+  favicon = "avatar.png"
+  logo = "avatar.png"
+  organizationName = "IPPermaculture"
+  [markup.goldmark.renderer]
+  unsafe = true

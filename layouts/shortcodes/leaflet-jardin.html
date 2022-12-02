@@ -1,0 +1,33 @@
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+crossorigin=""/>
+
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+crossorigin=""></script>
+
+<div id="map" style="height: 250px;"></div>
+
+<script>
+
+
+    var map = L.map('map').setView([48.710400, 2.206870], 17);
+
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    var polygon = L.polygon([
+    [48.71065, 2.20683],
+    [48.71058, 2.20700],
+    [48.71027, 2.20698],
+    [48.71023, 2.20692],
+    [48.71030, 2.20680] //pointe
+    ]).addTo(map);
+
+    var popup = L.popup()
+    .setLatLng([48.71045, 2.20690])
+    .setContent("IPPermaculture")
+    .openOn(map);
+
+</script>
