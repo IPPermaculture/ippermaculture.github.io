@@ -3,7 +3,7 @@ title: "Présentation"
 draft: false
 menu: "main"
 subtitle: "Présentation du projet"
-weight: -39
+weight: -1
 ---
 
 IPPermaculture regroupe des étudiants des écoles du quartier de Polytechnique (Agro Paris Tech, ENSAE, ENSTA, Polytechnique, Sup Optique, Télécom Paris, IP Paris) avec le soutien des enseignants chercheurs de ces établissements.
