@@ -5,7 +5,6 @@ menu: "main"
 draft: false
 ---
 
-
 <iframe width="100%" height="700em" src="https://framagenda.org/apps/calendar/embed/jQaRcB756zE6kYs3"></iframe>
 
 Lien vers le calendrier pleine page: https://framagenda.org/apps/calendar/p/jQaRcB756zE6kYs3
