@@ -24,10 +24,10 @@ La localisation de cet espace (sur le futur parc du Green) est de plus favorable
 ## Mise en œuvre pratique
 
 Dans cette optique, le terrain sera divisé en deux zones principales.
-Une de ces sera consacrée à des plantations libres mêlant une grande variété d'essences pouvant permettre de présenter à un large public des plantes inconnues ou habituellement ignorées.
-L'autre zone sera destinée à de l'agriculture maraichère. Abritée par des haies, des bandes de terres seront à répartir selon les besoins des personnes ou groupe de personnes qui se présenteront pour les cultiver.
+La première (en rouge sur le plan ci-dessous) sera consacrée à des plantations libres mêlant une grande variété d'essences pouvant permettre de présenter à un large public des plantes inconnues ou habituellement ignorées.
+La seconde zone (en bleu sur le plan) sera destinée à de l'agriculture maraichère. Abritée par des haies, des bandes de terres seront à répartir selon les besoins des personnes ou groupe de personnes qui se présenteront pour les cultiver.
 
-![](img/emplacement_EPAPS.png)
+![Plan jardin](img/emplacement_EPAPS.png)
 
 
 {{<mailerlite>}}
