@@ -5,8 +5,6 @@ title = 'IPPermaculture'
 theme = 'beautifulhugo'
 sectionPagesMenu = "main"
 
-enableEmoji = true
-
 [Params]
   favicon = "avatar.png"
   logo = "avatar.png"
