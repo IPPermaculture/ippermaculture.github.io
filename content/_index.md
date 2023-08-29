@@ -9,7 +9,7 @@ weight: -1
 IPPermaculture regroupe des étudiants des écoles du quartier de Polytechnique (Agro Paris Tech, ENSAE, ENSTA, Polytechnique, Sup Optique, Télécom Paris, IP Paris) avec le soutien des enseignants chercheurs de ces établissements.
 
 
-Nous disposerons cet hiver d'un espace de 400m² au Sud-Ouest de l’ENSAE où nous souhaiterions sensibilier la population étudiante et professionnelle à la transition écologique via un jardin partagé, en partenariat avec l'Établissement Public d’Aménagement de Paris-Saclay (EPAPS).
+Nous disposerons cet hiver d'un espace de 93m² au Sud-Ouest de l’ENSAE où nous souhaiterions sensibilier la population étudiante et professionnelle à la transition écologique via un jardin partagé, en partenariat avec l'Établissement Public d’Aménagement de Paris-Saclay (EPAPS).
 
 {{< leaflet-jardin >}}
 
