@@ -8,8 +8,8 @@ sectionPagesMenu = "main"
 enableRobotsTXT = false
 
 [Params]
-  favicon = "avatar.png"
-  logo = "avatar.png"
+  favicon = "logo_rond.png"
+  logo = "logo_rond.png"
   organizationName = "IPPermaculture"
   [markup.goldmark.renderer]
   unsafe = true
