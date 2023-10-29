@@ -6,16 +6,16 @@ subtitle: "Présentation du projet"
 weight: -1
 ---
 
-IPPermaculture regroupe des étudiants des écoles du quartier de Polytechnique (Agro Paris Tech, ENSAE, ENSTA, Polytechnique, Sup Optique, Télécom Paris, IP Paris) avec le soutien des enseignants chercheurs de ces établissements.
+IPPermaculture est une association de l’Institut Polytechnique de Paris (IP Paris) et regroupe des étudiants des écoles du quartier du Plateau de Saclay (Agro Paris Tech, ENSAE Paris, ENSTA Paris, École polytechnique, Sup Optique, Télécom Paris, IP Paris) avec le soutien des enseignants chercheurs de ces établissements.
 
 
-Nous disposerons cet hiver d'un espace de 93m² au Sud-Ouest de l’ENSAE où nous souhaiterions sensibilier la population étudiante et professionnelle à la transition écologique via un jardin partagé, en partenariat avec l'Établissement Public d’Aménagement de Paris-Saclay (EPAPS).
+Nous disposerons cet hiver d’un espace de 93m² au Sud-Ouest de l’ENSAE Paris où nous souhaiterions sensibiliser la population étudiante et professionnelle à la transition écologique via un jardin partagé, en partenariat avec l’Établissement Public d’Aménagement de Paris-Saclay (EPAPS).
 
 {{< leaflet-jardin >}}
 
 ## Constat
 
-Plusieurs groupes de personnes issues des différents établissements du quartier de Polytechnique entretiennent déjà ou sont prêts à entretenir une parcelle de terre pour de la production maraichère.
+Plusieurs groupes de personnes issues de ces différents établissements du quartier de Polytechnique entretiennent déjà ou sont prêts à entretenir une parcelle de terre pour de la production maraichère.
 
 Notre but est de proposer un espace commun privilégié d’agriculture interstitielle de manière à permettre à ces gens d'échanger plus facilement sur leurs pratiques ou leurs difficultés. Le jardin se présente comme un espace convivial de rencontre et d'échange, mais également d'apprentissage où chacun pourra participer à l'entretien du potager et partager ses connaissances.
 
