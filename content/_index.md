@@ -9,7 +9,7 @@ weight: -1
 IPPermaculture est une association de l’Institut Polytechnique de Paris (IP Paris) et regroupe des étudiants des écoles du quartier du Plateau de Saclay (Agro Paris Tech, ENSAE Paris, ENSTA Paris, École polytechnique, Sup Optique, Télécom Paris, IP Paris) avec le soutien des enseignants chercheurs de ces établissements.
 
 
-Nous disposerons cet hiver d’un espace de 93m² au Sud-Ouest de l’ENSAE Paris où nous souhaiterions sensibiliser la population étudiante et professionnelle à la transition écologique via un jardin partagé, en partenariat avec l’Établissement Public d’Aménagement de Paris-Saclay (EPAPS).
+Nous avons signé en novembre 2023 une convention avec l'Établissement Public d’Aménagement de Paris-Saclay (EPAPS) et nous disposons à présent d’un espace de 93m² au Sud-Ouest de l’ENSAE Paris. L'association vise à sensibiliser la population étudiante et professionnelle à la transition écologique via un jardin partagé.
 
 {{< leaflet-jardin >}}
 
