@@ -6,28 +6,30 @@ subtitle: "Présentation du projet"
 weight: -1
 ---
 
-IPPermaculture est une association de l’Institut Polytechnique de Paris (IP Paris) et regroupe des étudiants des écoles du quartier du Plateau de Saclay (Agro Paris Tech, ENSAE Paris, ENSTA Paris, École polytechnique, Sup Optique, Télécom Paris, IP Paris) avec le soutien des enseignants chercheurs de ces établissements.
+IPPermaculture est une association de l'Institut Polytechnique de Paris (IP Paris) qui regroupe des étudiants des écoles du plateau de Saclay (Agro Paris Tech, ENSAE Paris, ENSTA Paris, École polytechnique, Sup Optique, Télécom Paris, IP Paris) avec le soutien des enseignants chercheurs de ces établissements.
 
+## :seedling: Notre mission
 
-Nous avons signé en novembre 2023 une convention avec l'Établissement Public d’Aménagement de Paris-Saclay (EPAPS) et nous disposons à présent d’un espace de 93m² au Sud-Ouest de l’ENSAE Paris. L'association vise à sensibiliser la population étudiante et professionnelle à la transition écologique via un jardin partagé.
+Sensibiliser la communauté étudiante et professionnelle à l'écologie et à l'agriculture durable, en créant un espace de convivialité, de rencontres et d'apprentissage à travers un jardin partagé.
+
+En novembre 2023, nous avons signé une convention avec l'Établissement Public d’Aménagement de Paris-Saclay (EPAPS), nous offrant un terrain de 93m² au Sud-Ouest de l'ENSAE Paris.
 
 {{< leaflet-jardin >}}
 
-## Constat
+## :earth_africa: Pourquoi ce projet ?
 
-Plusieurs groupes de personnes issues de ces différents établissements du quartier de Polytechnique entretiennent déjà ou sont prêts à entretenir une parcelle de terre pour de la production maraichère.
+Le plateau de Saclay regroupe plusieurs initiatives en lien avec l’agriculture durable, mais elles restent dispersées. Nous voulons créer un espace commun, favorisant les échanges entre passionnés de jardinage, débutants et experts, dans un cadre collaboratif.
 
-Notre but est de proposer un espace commun privilégié d’agriculture interstitielle de manière à permettre à ces gens d'échanger plus facilement sur leurs pratiques ou leurs difficultés. Le jardin se présente comme un espace convivial de rencontre et d'échange, mais également d'apprentissage où chacun pourra participer à l'entretien du potager et partager ses connaissances.
+## :star2: Nos objectifs :
 
-La localisation de cet espace (sur le futur parc du Green) est de plus favorable à la création d’un lieu ouvert à tous, propre à inciter de nouvelles personnes à s'intéresser et à s'approprier les thématiques de durabilité. Cela pourrait par exemple avoir lieu dans le cadre d’ateliers de formation d’une demi-journée ou simplement au détour de discussions inattendues.
-
-## Mise en œuvre pratique
-
-Le terrain dont nous disposons est encadré en bleu sur le plan ci-dessous.
-
-Cette zone sera destinée à de l'agriculture maraichère en permaculture. Les bandes de terres seront à répartir selon les besoins des personnes ou groupe de personnes qui se présenteront pour les cultiver.
+* Un jardin partagé pour la transition écologique :herb:
+* Ateliers pratiques sur la permaculture :corn:
+* Échanges et apprentissage dans un cadre convivial :sunflower:
 
 ![Plan jardin](img/emplacement_EPAPS.png)
+
+## :calendar: Nos dernières actualités
+
 
 
 {{<mailerlite>}}
